@@ -1,0 +1,4 @@
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.Utlity\bin\Debug\Conference.Common.dll
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.Utlity\bin\Debug\Conference.Common.pdb
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.Utlity\obj\Debug\Conference.Common.dll
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.Utlity\obj\Debug\Conference.Common.pdb

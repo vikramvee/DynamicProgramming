@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceManagement", "ConferenceManagement.csproj", "{42008DE1-0344-412B-B1E0-0E9D0F734EAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conference.Interfaces", "..\Conference.Interfaces\Conference.Interfaces.csproj", "{4A72DF51-198B-40F8-9C5B-031EE0AAEC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conference.Engine", "Conference.Engine\Conference.Engine.csproj", "{65EF202A-14CE-4865-8079-FA4001735DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conference.TalkCreator", "Conference.TalkCreator\Conference.TalkCreator.csproj", "{1D7EA130-DF87-4294-801C-9E9922790654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conference.Models", "Conference.Concrete\Conference.Models.csproj", "{8AF56158-676E-401E-9839-C808C89E30BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conference.Utility", "Conference.Utlity\Conference.Utility.csproj", "{65B43DB5-B6E7-4240-ADAF-3AF5FB74A9B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conference.UnitTest", "..\Conference.UnitTest\Conference.UnitTest.csproj", "{6A7F2E2D-26B3-4455-9CE9-81D3DF6F7E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42008DE1-0344-412B-B1E0-0E9D0F734EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42008DE1-0344-412B-B1E0-0E9D0F734EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42008DE1-0344-412B-B1E0-0E9D0F734EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42008DE1-0344-412B-B1E0-0E9D0F734EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A72DF51-198B-40F8-9C5B-031EE0AAEC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A72DF51-198B-40F8-9C5B-031EE0AAEC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A72DF51-198B-40F8-9C5B-031EE0AAEC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A72DF51-198B-40F8-9C5B-031EE0AAEC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EF202A-14CE-4865-8079-FA4001735DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EF202A-14CE-4865-8079-FA4001735DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EF202A-14CE-4865-8079-FA4001735DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EF202A-14CE-4865-8079-FA4001735DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7EA130-DF87-4294-801C-9E9922790654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7EA130-DF87-4294-801C-9E9922790654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7EA130-DF87-4294-801C-9E9922790654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7EA130-DF87-4294-801C-9E9922790654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF56158-676E-401E-9839-C808C89E30BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF56158-676E-401E-9839-C808C89E30BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF56158-676E-401E-9839-C808C89E30BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF56158-676E-401E-9839-C808C89E30BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B43DB5-B6E7-4240-ADAF-3AF5FB74A9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B43DB5-B6E7-4240-ADAF-3AF5FB74A9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B43DB5-B6E7-4240-ADAF-3AF5FB74A9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B43DB5-B6E7-4240-ADAF-3AF5FB74A9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7F2E2D-26B3-4455-9CE9-81D3DF6F7E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7F2E2D-26B3-4455-9CE9-81D3DF6F7E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7F2E2D-26B3-4455-9CE9-81D3DF6F7E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7F2E2D-26B3-4455-9CE9-81D3DF6F7E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

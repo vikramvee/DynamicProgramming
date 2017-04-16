@@ -1,0 +1,13 @@
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\bin\Debug\Conference.TalkCreator.dll
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\bin\Debug\Conference.TalkCreator.pdb
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\bin\Debug\Conference.Common.dll
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\bin\Debug\Conference.Engine.dll
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\bin\Debug\Conference.Interfaces.dll
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\bin\Debug\Conference.Models.dll
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\bin\Debug\Conference.Interfaces.pdb
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\bin\Debug\Conference.Models.pdb
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\bin\Debug\Conference.Engine.pdb
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\bin\Debug\Conference.Common.pdb
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\obj\Debug\Conference.TalkCreator.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\obj\Debug\Conference.TalkCreator.dll
+C:\Users\SONY\Desktop\DynamicProgramming\DynamicProgrammingExample\Talks\ConferenceManagement\Conference.TalkCreator\obj\Debug\Conference.TalkCreator.pdb
